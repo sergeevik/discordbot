@@ -16,7 +16,7 @@
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
         <jda.version>3.8.3_462</jda.version>
-        <log4j>2.11.2</log4j>
+        <log4j>2.13.3</log4j>
     </properties>
 
     <repositories>
